@@ -1,0 +1,74 @@
+[
+    {
+        "match": 73,
+        "home_slot": "A2",
+        "away_slot": "B2"
+    },
+    {
+        "match": 74,
+        "home_slot": "E1"
+    },
+    {
+        "match": 75,
+        "home_slot": "F1",
+        "away_slot": "C2"
+    },
+    {
+        "match": 76,
+        "home_slot": "C1",
+        "away_slot": "F2"
+    },
+    {
+        "match": 77,
+        "home_slot": "I1"
+    },
+    {
+        "match": 78,
+        "home_slot": "E2",
+        "away_slot": "I2"
+    },
+    {
+        "match": 79,
+        "home_slot": "A1"
+    },
+    {
+        "match": 80,
+        "home_slot": "L1"
+    },
+    {
+        "match": 81,
+        "home_slot": "D1"
+    },
+    {
+        "match": 82,
+        "home_slot": "G1"
+    },
+    {
+        "match": 83,
+        "home_slot": "K2",
+        "away_slot": "L2"
+    },
+    {
+        "match": 84,
+        "home_slot": "H1",
+        "away_slot": "J2"
+    },
+    {
+        "match": 85,
+        "home_slot": "B1"
+    },
+    {
+        "match": 86,
+        "home_slot": "J1",
+        "away_slot": "H2"
+    },
+    {
+        "match": 87,
+        "home_slot": "K1"
+    },
+    {
+        "match": 88,
+        "home_slot": "D2",
+        "away_slot": "G2"
+    }
+]
