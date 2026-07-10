@@ -16,8 +16,12 @@ from src.config import BASELINE_MODEL_FILE
 PREDICTION_COLUMNS = FEATURE_COLUMNS
 
 
-def load_model(model_path: Path = BASELINE_MODEL_FILE):
-    """Load the trained model."""
+from pathlib import Path
+import joblib
+
+def load_model(model_path=BASELINE_MODEL_FILE):
+    print("MODEL PATH:", model_path)
+    print("MODEL EXISTS:", Path(model_path).exists())
     return joblib.load(model_path)
 
 
